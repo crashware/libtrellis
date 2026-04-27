@@ -1,0 +1,33 @@
+Trellis/Bloom Protocol Implementation
+Copyright (c) 2024-2026 cRash. All rights reserved.
+
+This product includes software developed by cRash as part of the
+Bloom protocol project (https://github.com/thebloomprotocol).
+
+Licensed under the GNU Lesser General Public License v3.0 with additional
+terms. See the LICENSE file in this directory for the complete license text.
+
+================================================================================
+Original Author
+================================================================================
+
+  cRash — Creator and sole author of the Trellis C library (libtrellis),
+  the Bloom Protocol specification, all WASM and Node.js bindings, the
+  trellis-web browser SDK, and all associated cryptographic, mesh networking,
+  onion routing, and protocol components.
+
+================================================================================
+Components
+================================================================================
+
+  libtrellis          — Core C implementation of the Bloom Protocol
+  @trellis/web        — Emscripten WASM binding for browser environments
+  @trellis/node       — Node.js N-API binding
+  trellis-web         — Browser-side JavaScript SDK
+  bloom-core.js       — Production WASM loader
+  bloom.bundle.js     — Bundled trellis-web distribution
+
+================================================================================
+
+This NOTICE file must be included in all copies and derivative works of the
+Trellis/Bloom code, as required by the additional terms in the LICENSE file.
