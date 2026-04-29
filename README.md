@@ -392,4 +392,4 @@ Fuzz harnesses (see [Testing, fuzzing, benchmarks](#testing-fuzzing-benchmarks))
 
 ## License
 
-The Trellis source code and all Bloom-related code in this repository are Copyright (c) 2024-2026 cRash, licensed under the **GNU Lesser General Public License v3.0 with the additional terms** in [LICENSE](../LICENSE). See [NOTICE](../NOTICE) for component attribution.
+The Trellis source code and all Bloom-related code in this repository are Copyright (c) 2024-2026 cRash, licensed under the **GNU Lesser General Public License v3.0 with the additional terms** in [LICENSE](./LICENSE). See [NOTICE](./NOTICE) for component attribution.
